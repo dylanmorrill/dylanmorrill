@@ -1,0 +1,1 @@
+Self-taught Salesforce developer in the Boston area experienced in programmatic and declarative Salesforce development. Been working in the Salesforce ecosystem for about 5 years. Also a certified CPQ Specialist with a great understanding of, and interest in, CPQ features. Experienced in the VS-Code, SFDX, GitHub deployment lifecycle.
